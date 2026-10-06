@@ -1,0 +1,15 @@
+.volta-card {
+  font-family: Arial, sans-serif;
+  border: 2px solid #00aa6c; /* Verde Volta */
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 300px;
+}
+button {
+  background-color: #00aa6c;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
